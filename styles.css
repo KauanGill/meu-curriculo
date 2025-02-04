@@ -85,3 +85,11 @@
   .link-git:hover {
     color: blue;
   }
+  @media (max-width:576px){
+    .div-profile{
+      float:none;
+    }
+    .profile{
+      text-align: center;
+    }
+  }
