@@ -68,7 +68,7 @@
     color: #555;
   }
   .div-profile{
-    max-width: 200px;
+    max-width: 150px;
     float: right;
   }
   .profile{
@@ -88,6 +88,7 @@
   @media (max-width:576px){
     .div-profile{
       float:none;
+      max-width: 100px;
     }
     .profile{
       text-align: center;
