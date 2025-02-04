@@ -77,3 +77,11 @@
   .about{
     width: 60%;
   }
+  .link-git {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .link-git:hover {
+    color: blue;
+  }
