@@ -7,7 +7,7 @@
 }
 .footer {
     background: #222;
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 20px;
 }
@@ -29,4 +29,14 @@
 .titulo-empresa{
     color: #000;
     font-size: 25px;
+}
+.img-texto{
+    width: 95%;
+    border-radius: 20px;
+}
+.texto-servicos{
+    font-size: 18px;
+}
+.texto-esquerda{
+    margin-left: 15px;
 }
